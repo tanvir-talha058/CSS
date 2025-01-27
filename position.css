@@ -1,7 +1,7 @@
 div {
-    height:10px;
+    height:100px;
     width: 100px;
-    background-color: aliceblue;
+    background-color: rgb(30, 128, 214);
     border: 2px solid black;
     display: inline-block;
 
@@ -15,4 +15,12 @@ div {
     left: 10px;
     
 
+}
+#box3{
+    position: absolute;
+    left: 500px;
+}
+#box4{
+    position: fixed;
+    top: 0px;
 }
