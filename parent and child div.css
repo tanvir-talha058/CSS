@@ -6,10 +6,13 @@
 }
 
 #box2{
-    height: 50px;
-    width: 50px;
-    background-color: red;
-    margin-left= 10%;
-    font-size: 5rem;
+    width: 30%;
+    background-color: yellow;
+    margin-left: 10%;
+    font-size: 2em;
+    width: 5rem;
+    height:100vh;
+}
+
     2 times of parents font size
 }
