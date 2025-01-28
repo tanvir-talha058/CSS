@@ -28,5 +28,5 @@ li{
     height: 100px;
     width: 100px;
     background-color: rgb(167, 125, 18);
-
+    align-self:center ;
 }
