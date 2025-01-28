@@ -1,0 +1,32 @@
+div{
+    background-color: aqua;
+    display: flex;
+    justify-content: space-evenly;
+}
+a{
+    text-decoration: none;
+    color:black;
+    background-color: chartreuse;
+
+}
+li{
+    list-style-type: none;
+    display: inline;
+}
+
+.outer{
+    height: 400px;
+    width: 400px;
+    background-color: rgb(18, 167, 167);
+    display:flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.inner{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(167, 125, 18);
+
+}
